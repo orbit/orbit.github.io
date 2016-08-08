@@ -72,3 +72,77 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/orbitframework
 
 ==================================================================
+==================================================================
+https://keybase.io/joeh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.orbit.cloud
+  * I am joeh (https://keybase.io/joeh) on keybase.
+  * I have a public key with fingerprint AFD8 C939 42DF 03D1 C077  F366 886B FE4A 5405 C2D9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018fa986f75171d1287ffd997d5afa7e2043825b43f00da6d69d3edc5c4ce5cb520a",
+            "fingerprint": "afd8c93942df03d1c077f366886bfe4a5405c2d9",
+            "host": "keybase.io",
+            "key_id": "886bfe4a5405c2d9",
+            "kid": "01018fa986f75171d1287ffd997d5afa7e2043825b43f00da6d69d3edc5c4ce5cb520a",
+            "uid": "80558a5fe57d217ebc34b1e608d3dc19",
+            "username": "joeh"
+        },
+        "service": {
+            "hostname": "www.orbit.cloud",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470678347,
+    "expire_in": 157680000,
+    "prev": "81dee5c4d637ef56a1d4fbdbfbc056f992272acac19154cdc0902fd379929f58",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMM8AnicrVJbTBRXGN7lVi6hkGDgQVp1gtZahLlfMCJ01VqqxFS7rIkNzsw5A8Mu
+M+vsLjeBBlISyLaBSqDxgUtAKMVEKwUKSilsAA0oTVfUYKsmtGkLVAttvBELnaH2
+rY89Lyfn/7/L//05Y5GBpnBztX0142iwb9Y8NdroMWV1jb9zChFUUIyknELscP2C
+DgBd7my7DJAUBMVQjJV4jqUlhsIYDGA4y0gS4DgGULzEMxBHSYLFKYEkJBQFPA1o
+DhAQiJRIipASBQpHeSQRkWQlB2pOTVbcuiwvAVbkCI7EgYQSABNRhpEImmZZWpAg
+yVMkSok44HRiruoyGPpwAu+CSbKq1/RH9vp4/4H/n+f2/OODUhTLUxKkGIBjDBRE
+ghQwSKMsIICIGb4eF9QUPh/q6DwV5iJliYheKZBFaCzVSPGiW1hYmKRqguxOEh2q
+B+hUp6a6VVF16M1ct9uZYnDdxc51MBSyX8hkC7IC9C3qhAKouWRVQVIwHSm6ZUMX
+IxmUZliCZBIRWOSUNZgtGwiKoVlUP4YNLDCyYADqAUlAEwyUKJrHACkJQJAEEaVo
+ieNwnMF5kddjYRQpAhHlUFwCBKN3OIliESPYSUU1LPU5+Rxd0yXnKLzbo0GkzDd6
+PMhkDjeFBAcY38sUHhb976drU6PWLMlfD040HLK3bvv+ETWbQicPzHIUe7+bgQ2N
+IfnbmquEqQAtJiD1pHJp5kBsTGT/lh+zLGlnOzuPJ5FxR1bPtfqu3zVZ44fzimrP
+nRl6kpla/Tox0N2Lm8u7nWFhnhh/nG1vQ33bYuRHN8rDBUvrfEuzO7TkZt9zX/9n
+Slp7HlxYCjdfWKud5hNiH5Qu7MpqMEnFNZpP7dtRUzPuCb28MnDLmtBirrLQ09PB
++RnbZ/Iy9/9hMyV473kvde16mFpZ/cz/tv+V0qcfb7a1FvZuSifurI04DtTXbM7Z
+qx3ad3A45Fh/5L7ffccqPywtK1rdvWmVa3jv3kpFHfZVfctI/vL73o7qtXRratPF
+kDF/yYPdmXbnN8ryFV/99IW5UO/YZOKZpp5RS8J3n1jHFvZvvXLRJPy2p2bFZr3T
+5ffkxxLfvtSXbBmcH+r5omUp+YTrzT/9Qc7ogYmfA72fb2SdTyoiYjMveyPi3yjY
+uvOXI7k3qPNLVekPlWvVy76oDe1lI9rEXMWs9bYk1uW8tnZi5uBR/nrb5FTWxJ4F
+x8gPZXOrvXff6jhd/uutMOj44K901WZrn0y+XxLfdXXwcefy7W57S+1Z8un8Iv2u
+b/tiWPOznzp2MuebMh5dC0ZflR8ffjl+/HmwI/DLoaCeq8jQ6ca2DXWVG7c441w3
+o7Kiu9I+lYcj/gYrhsXi
+=kCmX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joeh
+
+==================================================================
