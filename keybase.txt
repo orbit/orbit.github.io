@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/orbitframework
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.orbit.cloud
+  * I am orbitframework (https://keybase.io/orbitframework) on keybase.
+  * I have a public key with fingerprint A88E F8DE C897 B697 6EE2  B3FD D5AA 9A9C 769C 328A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012b68a39b44e7dc74edae751300d373564818a33be82bbee630204f5fe2819c0c0a",
+            "fingerprint": "a88ef8dec897b6976ee2b3fdd5aa9a9c769c328a",
+            "host": "keybase.io",
+            "key_id": "d5aa9a9c769c328a",
+            "kid": "01012b68a39b44e7dc74edae751300d373564818a33be82bbee630204f5fe2819c0c0a",
+            "uid": "cfadf8610a0299f7f93a5e1dc3e32619",
+            "username": "orbitframework"
+        },
+        "service": {
+            "hostname": "www.orbit.cloud",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470677041,
+    "expire_in": 157680000,
+    "prev": "e49da475829408174ea6587d7bd68cdfc5922b9d4ab2b3216e85b02b28a7287e",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMNDAnicrVJ9TFVlHD58RpSLm3O3sKIdU/vAu/P9nnOJTc0BEgZqTNHa5Xy8B47g
+PZdzDyARu2zEdDBNzGQKN2K1kQJpWxPOIAUnpDKXBGLdSISRKyCSDwVCR+cw+68/
+e/9593t/z/O8z+9538srQpDIoJtnTtUW1BIVQT2ddfnIrq868GJUUKUi1FmM5sDl
+DeZK0Ku7chQJdaIYjuGEwLA8yQkUBYEkAgpKPAQ0TmKYRAKSZigWN/ukAFlCECBk
+SIzAKJmWIcHinIiJGI/GorLizoKaR1PcuinLsyyUWQmKLAcEhgMMhIRAypJE8zzH
+cyJgOJEkWIuYrXothmlO4L3QoajmmVm4lu39B/5/9p2/LCfKvCSzDI7xGMFxMpA5
+kqchLokkJAkG5yygF2pufj800aomKLqsmUWhquWgJbGo2StQRGjFa83zGFdYWOhY
+xjrEXDVfMkU8mqqropprNrN13eO0uHqRZxkMBddjGZeguCUzT5NQADWvorpRJ24i
+RV2xdHEKYAwAGIXHovCAR9GgS7EQNGBYzFzWNbDAlIQUJ/EUoFmCozAWNxPiGZoF
+EhAkhhUlWaQ5ghA4ieIF83UInIEsLWCEYAYNCBZA1Bosz62iTtK0yWeZkl4ly83r
++RpESy51vheKBEUi4WHB1j9DIp+M+vf3HWuLQlp/Hol/O90nHEk/NBr3/BueF/OG
+/f07+7q+a4iISvw+dF3vSO/L41VHJh5VN1F+vis4Ddv0oCZzY2L9S1N2+UDq39rT
+97s7tviG68+0N+7dF2Pf+oeNX7tq4Xfb7cMJFce3vXA95uIepLf62ths03TT4sLD
+uuE7ozOJKeVjXUK1kZv4641LU/bpvuJv437zbT55tf+tsz2++G2J1c6iseBAWdW9
+rddA6+WyjM+1QFxNh+2pyU0u57nplVF06sDJQ5+tJ5WKU+1jCafdlf0FesLVWzvm
+2xarJh+owR8uDoZ9BKQUx5SW7LeH/7R5g7+X3Nc6aCQdbBm/IBsLGWlMdN9xsca4
+EfLp9syY86mjyUtkW4nLGLqvGW9m+7JD9qz+pH06qI6aLS91DKzjSidfu2hPAkv+
+phZ1rf+ZyoPrb7X4S9hKbP6mfcdMxqO/jKPxx87P9i+9Ez26AX65EzlRJz7hrXKW
+O1CixtUV/rD57Iw9rO/KFwIfTWbca6zfEr9yOr81ba47aQ1yJS3qbt0F/Jfkd58b
+ffVw+sgHPwReR063bP+4xhabtb8novvc7mcVED9+IsfXsOubsom9geYfHQ2r5+ZW
+/dnxSunQbedQXuWKyByjtDOio9sYDM39+vrYGpvdm96cYkwcnVcHGoffb6rlAjBz
+vo0c3F0mLfRt9Kb238Hvxv0DPd/Srw==
+=KBS4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/orbitframework
+
+==================================================================
