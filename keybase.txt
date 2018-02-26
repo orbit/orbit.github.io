@@ -4,145 +4,71 @@ https://keybase.io/orbitframework
 
 I hereby claim:
 
-  * I am an admin of http://www.orbit.cloud
+  * I am an admin of https://orbit.cloud
   * I am orbitframework (https://keybase.io/orbitframework) on keybase.
   * I have a public key with fingerprint A88E F8DE C897 B697 6EE2  B3FD D5AA 9A9C 769C 328A
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "01012b68a39b44e7dc74edae751300d373564818a33be82bbee630204f5fe2819c0c0a",
-            "fingerprint": "a88ef8dec897b6976ee2b3fdd5aa9a9c769c328a",
-            "host": "keybase.io",
-            "key_id": "d5aa9a9c769c328a",
-            "kid": "01012b68a39b44e7dc74edae751300d373564818a33be82bbee630204f5fe2819c0c0a",
-            "uid": "cfadf8610a0299f7f93a5e1dc3e32619",
-            "username": "orbitframework"
-        },
-        "service": {
-            "hostname": "www.orbit.cloud",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01012b68a39b44e7dc74edae751300d373564818a33be82bbee630204f5fe2819c0c0a",
+      "fingerprint": "a88ef8dec897b6976ee2b3fdd5aa9a9c769c328a",
+      "host": "keybase.io",
+      "key_id": "d5aa9a9c769c328a",
+      "kid": "01012b68a39b44e7dc74edae751300d373564818a33be82bbee630204f5fe2819c0c0a",
+      "uid": "cfadf8610a0299f7f93a5e1dc3e32619",
+      "username": "orbitframework"
     },
-    "ctime": 1470677041,
-    "expire_in": 157680000,
-    "prev": "e49da475829408174ea6587d7bd68cdfc5922b9d4ab2b3216e85b02b28a7287e",
-    "seqno": 3,
-    "tag": "signature"
+    "service": {
+      "hostname": "orbit.cloud",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519632464,
+  "expire_in": 157680000,
+  "prev": "45eb0a431047a4fcce8c12f6796802225ec754ded2279a25602fa140f39a7438",
+  "seqno": 7,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.55
+Version: Keybase OpenPGP v2.0.76
 Comment: https://keybase.io/crypto
 
-yMNDAnicrVJ9TFVlHD58RpSLm3O3sKIdU/vAu/P9nnOJTc0BEgZqTNHa5Xy8B47g
-PZdzDyARu2zEdDBNzGQKN2K1kQJpWxPOIAUnpDKXBGLdSISRKyCSDwVCR+cw+68/
-e/9593t/z/O8z+9538srQpDIoJtnTtUW1BIVQT2ddfnIrq868GJUUKUi1FmM5sDl
-DeZK0Ku7chQJdaIYjuGEwLA8yQkUBYEkAgpKPAQ0TmKYRAKSZigWN/ukAFlCECBk
-SIzAKJmWIcHinIiJGI/GorLizoKaR1PcuinLsyyUWQmKLAcEhgMMhIRAypJE8zzH
-cyJgOJEkWIuYrXothmlO4L3QoajmmVm4lu39B/5/9p2/LCfKvCSzDI7xGMFxMpA5
-kqchLokkJAkG5yygF2pufj800aomKLqsmUWhquWgJbGo2StQRGjFa83zGFdYWOhY
-xjrEXDVfMkU8mqqropprNrN13eO0uHqRZxkMBddjGZeguCUzT5NQADWvorpRJ24i
-RV2xdHEKYAwAGIXHovCAR9GgS7EQNGBYzFzWNbDAlIQUJ/EUoFmCozAWNxPiGZoF
-EhAkhhUlWaQ5ghA4ieIF83UInIEsLWCEYAYNCBZA1Bosz62iTtK0yWeZkl4ly83r
-+RpESy51vheKBEUi4WHB1j9DIp+M+vf3HWuLQlp/Hol/O90nHEk/NBr3/BueF/OG
-/f07+7q+a4iISvw+dF3vSO/L41VHJh5VN1F+vis4Ddv0oCZzY2L9S1N2+UDq39rT
-97s7tviG68+0N+7dF2Pf+oeNX7tq4Xfb7cMJFce3vXA95uIepLf62ths03TT4sLD
-uuE7ozOJKeVjXUK1kZv4641LU/bpvuJv437zbT55tf+tsz2++G2J1c6iseBAWdW9
-rddA6+WyjM+1QFxNh+2pyU0u57nplVF06sDJQ5+tJ5WKU+1jCafdlf0FesLVWzvm
-2xarJh+owR8uDoZ9BKQUx5SW7LeH/7R5g7+X3Nc6aCQdbBm/IBsLGWlMdN9xsca4
-EfLp9syY86mjyUtkW4nLGLqvGW9m+7JD9qz+pH06qI6aLS91DKzjSidfu2hPAkv+
-phZ1rf+ZyoPrb7X4S9hKbP6mfcdMxqO/jKPxx87P9i+9Ez26AX65EzlRJz7hrXKW
-O1CixtUV/rD57Iw9rO/KFwIfTWbca6zfEr9yOr81ba47aQ1yJS3qbt0F/Jfkd58b
-ffVw+sgHPwReR063bP+4xhabtb8novvc7mcVED9+IsfXsOubsom9geYfHQ2r5+ZW
-/dnxSunQbedQXuWKyByjtDOio9sYDM39+vrYGpvdm96cYkwcnVcHGoffb6rlAjBz
-vo0c3F0mLfRt9Kb238Hvxv0DPd/Srw==
-=KBS4
+yMNDAnicrZJpTFxVFMcZtCSdQiF0I5LU8kxTSljevtC0lNQoVExQii2KfXnLffQx
+MG9482boOBCExC6YOizNIIihEkorlgq0aa2VCNhSlpKqBBc2DaK1adhasMjqe0QT
+P/jR++Xm3PM7//s/J+dWwFM+ZtNAQ1W1sxotNvW2Vzt8Xi9vS3ZDvCK6oFg3ZAFr
+F8gSgV1jLbIIxUIwAiMoT9IcxvA4DihRoHAgcoAiEAyGRYzCCBKnET2P8YBGeR4A
+EoNRGJcICaA0wgiwAHNQJCTJ1gyg2lTZqumyHE0DiRaBQDMUTzIUCQDKY5IoEhzH
+cIxAkYyAobRReEyxGxW6OZ6zg2hZ0d/0gF2z9x/8/+zbsSYnSJwo0SQCczDKMBIl
+MRhHAEQUMIChJMIYoB2oVi4b6LSi8rImqXqQq6gWKD8S0nNOWQDGeI1+/s1FC1mK
+Q9QFbKqiKYKSpSeOaZrNHmsUai6bQeYCnv1bg+Vlq6gPU69wAtUuK1YoFtFJQZMN
+UYRAGBJDcRKPhMBxm6wCVjYIgiJpWD/GP8CpS+IE4GEOxxAYpzhcEgRACwgqkRSj
+gyiKEkCgCFwEIopSDIcSJIxKHILDEsZwFI7RkNFVjlWBYindJpehS9rlDCunOVQA
+5Xe0pz/tYzL7+K3zNZbMx7w+6J/Vs/0YuEKJDxxno1Yyz8c4Trf3s55N48++NZjp
+98i99LlrdAq8+nC0wVs5dUAggkpDgh53nOrp8M+YS86/VZV3LjtxLHemYP83RZtC
+cqeudI/gXSdPfJYhm1ajnlu5R6bsvftHx8X398zBv3v2NG25vXGh4m59/8qO+ICz
+8JbAR6dGW6eDbx5ZKaqCt++eaG9pHtmZpPoGR7AhH4w3l+aEZ6alDr28FPeTOpA6
+EDgjLx8he/nJEm9ZFL3U2nl9OKzzz/ONOfHTtT+8c/AS/vGG+w3HmYWiJb5rqCZE
++817ZdilPnmtZGzZGz7QV9n03uYiG1vz7cju3HH3tRtfX0wL3lGIHzozG7be9JHT
+tXiUtcY3S42P03CCreis7ooYK2h4mwuztx3s+dmVWt6UULK5e5dzPi39WvGhA9ue
+zDQPfUf19HiuEknX/W3mE9Vo4TM9/S2Lo/1JZ+6zeROWwamW74MrfOu2kYeHJXfC
+fETnvsIAuOtcW7Sl7s28vNlPzXdu3xip3Ln95mDl6cu+E56o1QdZ/qF+h8PrV0Nr
+tzYpqfK7iXHJe/uuvrKrbR14+IvnkmQ2xVwOnINTel/ggvbfaf0wbuboaroW/EVE
+9L3nPaEvldeSQZNlE/WTb3BfOXuHF7yLiX19OSmm7tILsy8WX9j3a8F0wNbhmMZs
+xLJw0l224cuNCfOf1AjLdX8BIPjUUA==
+=lEIX
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/orbitframework
-
-==================================================================
-==================================================================
-https://keybase.io/joeh
---------------------------------------------------------------------
-
-I hereby claim:
-
-  * I am an admin of http://www.orbit.cloud
-  * I am joeh (https://keybase.io/joeh) on keybase.
-  * I have a public key with fingerprint AFD8 C939 42DF 03D1 C077  F366 886B FE4A 5405 C2D9
-
-To do so, I am signing this object:
-
-{
-    "body": {
-        "key": {
-            "eldest_kid": "01018fa986f75171d1287ffd997d5afa7e2043825b43f00da6d69d3edc5c4ce5cb520a",
-            "fingerprint": "afd8c93942df03d1c077f366886bfe4a5405c2d9",
-            "host": "keybase.io",
-            "key_id": "886bfe4a5405c2d9",
-            "kid": "01018fa986f75171d1287ffd997d5afa7e2043825b43f00da6d69d3edc5c4ce5cb520a",
-            "uid": "80558a5fe57d217ebc34b1e608d3dc19",
-            "username": "joeh"
-        },
-        "service": {
-            "hostname": "www.orbit.cloud",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
-    },
-    "ctime": 1470678347,
-    "expire_in": 157680000,
-    "prev": "81dee5c4d637ef56a1d4fbdbfbc056f992272acac19154cdc0902fd379929f58",
-    "seqno": 14,
-    "tag": "signature"
-}
-
-which yields the signature:
-
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.55
-Comment: https://keybase.io/crypto
-
-yMM8AnicrVJbTBRXGN7lVi6hkGDgQVp1gtZahLlfMCJ01VqqxFS7rIkNzsw5A8Mu
-M+vsLjeBBlISyLaBSqDxgUtAKMVEKwUKSilsAA0oTVfUYKsmtGkLVAttvBELnaH2
-rY89Lyfn/7/L//05Y5GBpnBztX0142iwb9Y8NdroMWV1jb9zChFUUIyknELscP2C
-DgBd7my7DJAUBMVQjJV4jqUlhsIYDGA4y0gS4DgGULzEMxBHSYLFKYEkJBQFPA1o
-DhAQiJRIipASBQpHeSQRkWQlB2pOTVbcuiwvAVbkCI7EgYQSABNRhpEImmZZWpAg
-yVMkSok44HRiruoyGPpwAu+CSbKq1/RH9vp4/4H/n+f2/OODUhTLUxKkGIBjDBRE
-ghQwSKMsIICIGb4eF9QUPh/q6DwV5iJliYheKZBFaCzVSPGiW1hYmKRqguxOEh2q
-B+hUp6a6VVF16M1ct9uZYnDdxc51MBSyX8hkC7IC9C3qhAKouWRVQVIwHSm6ZUMX
-IxmUZliCZBIRWOSUNZgtGwiKoVlUP4YNLDCyYADqAUlAEwyUKJrHACkJQJAEEaVo
-ieNwnMF5kddjYRQpAhHlUFwCBKN3OIliESPYSUU1LPU5+Rxd0yXnKLzbo0GkzDd6
-PMhkDjeFBAcY38sUHhb976drU6PWLMlfD040HLK3bvv+ETWbQicPzHIUe7+bgQ2N
-IfnbmquEqQAtJiD1pHJp5kBsTGT/lh+zLGlnOzuPJ5FxR1bPtfqu3zVZ44fzimrP
-nRl6kpla/Tox0N2Lm8u7nWFhnhh/nG1vQ33bYuRHN8rDBUvrfEuzO7TkZt9zX/9n
-Slp7HlxYCjdfWKud5hNiH5Qu7MpqMEnFNZpP7dtRUzPuCb28MnDLmtBirrLQ09PB
-+RnbZ/Iy9/9hMyV473kvde16mFpZ/cz/tv+V0qcfb7a1FvZuSifurI04DtTXbM7Z
-qx3ad3A45Fh/5L7ffccqPywtK1rdvWmVa3jv3kpFHfZVfctI/vL73o7qtXRratPF
-kDF/yYPdmXbnN8ryFV/99IW5UO/YZOKZpp5RS8J3n1jHFvZvvXLRJPy2p2bFZr3T
-5ffkxxLfvtSXbBmcH+r5omUp+YTrzT/9Qc7ogYmfA72fb2SdTyoiYjMveyPi3yjY
-uvOXI7k3qPNLVekPlWvVy76oDe1lI9rEXMWs9bYk1uW8tnZi5uBR/nrb5FTWxJ4F
-x8gPZXOrvXff6jhd/uutMOj44K901WZrn0y+XxLfdXXwcefy7W57S+1Z8un8Iv2u
-b/tiWPOznzp2MuebMh5dC0ZflR8ffjl+/HmwI/DLoaCeq8jQ6ca2DXWVG7c441w3
-o7Kiu9I+lYcj/gYrhsXi
-=kCmX
------END PGP MESSAGE-----
-
-And finally, I am proving ownership of this host by posting or
-appending to this document.
-
-View my publicly-auditable identity here: https://keybase.io/joeh
 
 ==================================================================
